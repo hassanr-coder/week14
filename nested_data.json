@@ -1,0 +1,5 @@
+{ 
+  "student": { "name": "Maria Lopez", "id": 1024, "contact": { "email": "maria.lopez@example.com", "phone": "555-123-4567" } },
+  "courses": [ { "course_name": "Intro to Programming", "grade": "A" }, { "course_name": "Data Structures", "grade": "B+" } ],
+  "address": { "street": "123 Main St", "city": "New York", "zip": "10001" } 
+}
